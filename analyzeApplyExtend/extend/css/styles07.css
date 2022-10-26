@@ -39,3 +39,7 @@ footer {
 	font-size: .70em;
 	text-align: center;
 }
+
+div{
+  column-count: 3;
+}
